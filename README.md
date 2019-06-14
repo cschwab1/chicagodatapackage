@@ -16,6 +16,7 @@ I intend for this project to be ongoing, and am excited to see how it grows movi
 You can install the released version of ChicagoPackage from [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
+
 install.packages("ChicagoPackage")
 ```
 
@@ -24,7 +25,8 @@ install.packages("ChicagoPackage")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(ChicagoPackage)
+# library(devtools)
+install_github("cschwab1/chicagodatapackage")
 ## basic example code
 ```
 
