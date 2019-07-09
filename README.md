@@ -13,20 +13,13 @@ I intend for this project to be ongoing, and am excited to see how it grows movi
 
 ## Installation
 
-You can install the released version of ChicagoPackage from [CRAN](https://CRAN.R-project.org) with:
+I the project isn't yet available from CRAN, so you can download it directly from github:
 
 ``` r
 
-install.packages("ChicagoPackage")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-# library(devtools)
+library(devtools)
 install_github("cschwab1/chicagodatapackage")
-## basic example code
 ```
+
+
 

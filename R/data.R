@@ -115,5 +115,48 @@
 #' @source \url{https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6}
 "ca_boundaries"
 
-"CPS_Tiers"
+#'
+#' @details
+#' @format
+#' \describe{
+#'   \item{}{}
+#' }
+#' @source \url{}
+"cps_tiers"
+
+#'
+#' @details
+#' @format
+#' \describe{
+#'   \item{}{}
+#' }
+#' @source \url{}
+"census_tracts_2010"
+
+#'
+#' @details
+#' @format
+#' \describe{
+#'   \item{}{}
+#' }
+#' @source \url{}
+"cta_ridership"
+
+#'
+#' @details
+#' @format
+#' \describe{
+#'   \item{}{}
+#' }
+#' @source \url{}
+"cta_stations"
+
+#'
+#' @details
+#' @format
+#' \describe{
+#'   \item{}{}
+#' }
+#' @source \url{}
+"tif_sf"
 
